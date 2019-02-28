@@ -1,0 +1,3 @@
+# {{cookiecutter.team_name}} Team Meeting
+
+2000-01-01

@@ -1,3 +1,7 @@
+====================
+Meeting Template
+====================
+
 # {{cookiecutter.team_name}} Team Meeting - <{{cookiecutter.meeting_frequency}}>
 
 Date:
