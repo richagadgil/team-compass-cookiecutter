@@ -7,15 +7,23 @@
 Team Compass for {{cookiecutter.team_name}}
 ==============================================
 
+This page functions as the team compass for {{cookiecutter.team_name}} community. 
+
+Site contents
+=============
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents
 
+   team
    meetings
+   milestones
+   governance
 
 Why have a Team Compass?
 ========================
-This repository helps the {{cookiecutter.team_name}} team to set a weekly
+This repository helps the {{cookiecutter.team_name}} team to set a
 course for project activity. Our overriding goal is continuous team and
 project improvement.
 
@@ -23,10 +31,10 @@ As projects and their growth evolve rapidly, the contents of this repo
 should aid us in setting project direction and adjusting the course as
 needed. The repo contains:
 
-- team meeting agendas
+- team descriptions and roles 
+- team meeting agendas and reports
 - roadmap and action plans
-- communication and culture of respectful teamwork
-- recognitions and team celebrations
+- governance and code of conduct
 
 We sail together
 ================

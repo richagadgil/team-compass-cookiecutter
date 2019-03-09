@@ -1,4 +1,5 @@
 {
     "team_name": "",
-    "meeting_frequency": "monthly"
+    "meeting_frequency": "monthly",
+    "report_frequency": "weekly"
 }

@@ -1,8 +1,8 @@
 ====================
-Team meeting reports
+Meetings and Reports
 ====================
 
-The {{cookiecutter.team_name}} team has a {{cookiecutter.meeting_frequency}} meeting
+The {{cookiecutter.team_name}} team has a {{cookiecutter.meeting_frequency}} meeting.
 Below are links to the reports from each of these meetings over the last several
 months.
 
@@ -14,6 +14,16 @@ see the team-compass readme for information on how to join.
    :caption: Team meetings
 
 
+   meeting/meeting-report-index
+
+We also write reports for our audience. These are listed below!
+
+.. toctree::
+   :maxdepth: 10
+   :caption: Reports
+
+
+   reports/report-index
 
 
 

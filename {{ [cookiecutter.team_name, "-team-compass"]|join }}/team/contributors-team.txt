@@ -1,0 +1,7 @@
+.. raw:: html
+
+   <table class="docutils contributors">
+   <tr class="row-even">
+   <td align="center" class="contrib_entry"><a href="https://github.com/richagadgil"><img src="https://github.com/richagadgil.png?size=200" class="headshot" alt="Richa Gadgil" /><br /><p class="name"><b>Richa Gadgil</b></p></a><p class="contrib_affiliation">ordereddict([(ordereddict([('cookiecutter.team_name', None)]), None)])</p><p class="contributions"><span class="contribs contribs_text">code</span></p></td>
+   <td align="center" class="contrib_entry"><a href="https://github.com/Zsailer"><img src="https://github.com/Zsailer.png?size=200" class="headshot" alt="Zach Sailer" /><br /><p class="name"><b>Zach Sailer</b></p></a><p class="contrib_affiliation">ordereddict([(ordereddict([('cookiecutter.team_name', None)]), None)])</p><p class="contributions"><span class="contribs contribs_text">code</span></p></td>
+   </table>

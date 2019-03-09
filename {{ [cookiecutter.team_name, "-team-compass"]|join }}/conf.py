@@ -50,6 +50,11 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 #source_suffix = '.rst'
 
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
 # The master toctree document.
 master_doc = 'index'
 
@@ -171,3 +176,7 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+# -- Update contributor lists --------------------------------------------
+import subprocess
+subprocess.run(['python', 'scripts/gen_contributors.py'], check=True)

@@ -1,0 +1,10 @@
+# Use ALPHABETICAL ORDER please :-)
+- name: Richa Gadgil
+  handle: '@richagadgil'
+  affiliation: { { cookiecutter.team_name } }
+  contributions: code
+
+- name: Zach Sailer
+  handle: '@Zsailer'
+  affiliation: { { cookiecutter.team_name } }
+  contributions: code
